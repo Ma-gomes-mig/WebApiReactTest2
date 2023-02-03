@@ -17,22 +17,22 @@ namespace AlunosApi.Context
 
         public DbSet<Aluno> Alunos { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            modelBuilder.Entity<Aluno>().HasData(
-                new Aluno                {
-                    Id = 1,
-                    Nome = "Miguel",
-                    Email = "MiguelGomes@yahoo.com",
-                    Idade = 8
-                },
-                new Aluno
-                {
-                    Id = 2,
-                    Nome = "Matheus",
-                    Email = "Matheus.gom23@yahoo.com",
-                    Idade = 29
-                });
-        }
+        //protected override void OnModelCreating(ModelBuilder modelBuilder)
+        //{
+        //    modelBuilder.Entity<Aluno>().HasData(
+        //        new Aluno                {
+        //            Id = 1,
+        //            Nome = "Miguel",
+        //            Email = "MiguelGomes@yahoo.com",
+        //            Idade = 8
+        //        },
+        //        new Aluno
+        //        {
+        //            Id = 2,
+        //            Nome = "Matheus",
+        //            Email = "Matheus.gom23@yahoo.com",
+        //            Idade = 29
+        //        });
+        //}
     }
 }
