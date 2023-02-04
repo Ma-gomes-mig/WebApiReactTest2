@@ -8,6 +8,10 @@ C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\AlunosApi.pdb
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Azure.Core.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Azure.Identity.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Humanizer.dll
+C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
@@ -17,6 +21,8 @@ C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Entit
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Identity.Client.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
@@ -74,8 +80,3 @@ C:\Users\mathe\source\repos\AlunosApi\AlunosApi\obj\Debug\net7.0\refint\AlunosAp
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\obj\Debug\net7.0\AlunosApi.pdb
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\obj\Debug\net7.0\AlunosApi.genruntimeconfig.cache
 C:\Users\mathe\source\repos\AlunosApi\AlunosApi\obj\Debug\net7.0\ref\AlunosApi.dll
-C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
-C:\Users\mathe\source\repos\AlunosApi\AlunosApi\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
